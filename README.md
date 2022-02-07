@@ -2,11 +2,9 @@
 
 - 🔭 I’m currently working on my front and back-end skills.
 - 🌱 I’m currently learning HTML + CSS + Javascript (and the fundamentals of programming).
-- 👯 I’m looking to collaborate on what makes the difference not just a gig.
-- 🤔 I’m looking forward to help with anything that is going to make a positive difference related with accessibility and truth.
-- 💬 Ask me about anything that you wanna know about me, feel free.
+- 👯 I’m looking to collaborate on what makes the a positive difference like providing accessibility through code.
+- 💬 Ask me about anything that you wanna know about me, feel free to contact me.
 - 📫 How to reach me: dpmsengineer@gmail.com.
-- 😄 Pronouns: he/his.
 
 <div align="center">
   <a href="https://github.com/dpedersoli">
