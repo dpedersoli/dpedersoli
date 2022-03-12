@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Daniel Pedersoli
 
 - 🔭 I’m currently working on my front and back-end skills (mostly front).
-- 🌱 I’m currently learning HTML, CSS, Javascript with Node and React (and the fundamentals of programming).
+- 🌱 I’m constantly learning HTML, CSS, SQL, Javascript with Node and React (and the fundamentals of programming).
 - 👯 I’m looking to collaborate on what makes the a positive difference like providing accessibility through code.
 - 💬 Ask me about anything that you wanna know about me, feel free to contact me.
 - 📫 How to reach me: dpmsengineer@gmail.com.
