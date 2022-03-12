@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Daniel Pedersoli
 
-- 🔭 I’m currently working on my front and back-end skills.
+- 🔭 I’m currently working on my front and back-end skills (mostly front).
 - 🌱 I’m currently learning HTML, CSS, Javascript with Node and React (and the fundamentals of programming).
 - 👯 I’m looking to collaborate on what makes the a positive difference like providing accessibility through code.
 - 💬 Ask me about anything that you wanna know about me, feel free to contact me.
@@ -13,11 +13,12 @@
 </div>
   
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Daniel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Daniel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Daniel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Daniel-NodeJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" />
 </div>
-  
+ 
   ##
  
 <div> 
