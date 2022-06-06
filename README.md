@@ -1,4 +1,4 @@
-## Olá! Eu sou o Daniel Pedersoli
+## Hello! My name is Daniel Pedersoli
 
 - 🔭 I’m currently working on my front-end skills (mostly front).
 - 🌱 I’m constantly learning HTML, CSS, Javascript, React with JS and Typescript, and also learning the fundamentals of programming.
