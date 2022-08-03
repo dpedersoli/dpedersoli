@@ -5,6 +5,7 @@
 - 👯 I’m looking to collaborate on what makes the a positive difference like providing accessibility through code.
 - 💬 Ask me about anything that you wanna know about me, feel free to contact me.
 - 📫 How to reach me: dpmsengineer@gmail.com || https://www.linkedin.com/in/daniel-pedersoli-/
+- ✔ Portfolio: https://daniel-pedersoli-portfolio.netlify.app/
 
 <div align="center">
   <a href="https://github.com/dpedersoli">
