@@ -1,7 +1,7 @@
 ## Hello! My name is Daniel Pedersoli
 
 - 🔭 I’m currently working on my front-end skills (mostly front).
-- 🌱 I’m constantly learning HTML, CSS, Javascript, React with JS and Typescript, and also learning the fundamentals of programming.
+- 🌱 I’m Front-end Developer constantly using tools as: HTML, CSS, Javascript, ReactJS and Typescript, and also the fundamentals of programming, Clean Good, Good Pratices, etc.
 - 👯 I’m looking to collaborate on what makes the a positive difference like providing accessibility through code.
 - 💬 Ask me about anything that you wanna know about me, feel free to contact me.
 - 📫 How to reach me: dpmsengineer@gmail.com || https://www.linkedin.com/in/daniel-pedersoli-/
@@ -19,7 +19,6 @@
   <img align="center" alt="React icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img align="center" alt="Typescript icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
   <img align="center" alt="Javascript icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Tailwind icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
 </div>
  
   ##
