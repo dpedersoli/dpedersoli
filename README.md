@@ -1,7 +1,7 @@
 ## Hello! My name is Daniel Pedersoli
 
 - 🔭 I’m currently working on my front-end skills (mostly front).
-- 🌱 I’m Front-end Developer constantly using tools as: HTML, CSS, Javascript, ReactJS, React Native, Node and Typescript, and also the fundamentals of programming, Clean Good, Good Pratices, etc.
+- 🌱 I’m Fullstack Developer constantly using tools as: HTML, CSS, Javascript, ReactJS, React Native, Node and Typescript, and also the fundamentals of programming, Clean Good, Good Pratices, etc.
 - 👯 I’m looking to collaborate on what makes the a positive difference like providing accessibility through code.
 - 💬 Ask me about anything that you wanna know about me, feel free to contact me.
 - 📫 How to reach me: dpmsengineer@gmail.com || https://www.linkedin.com/in/daniel-pedersoli-/
